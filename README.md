@@ -1,5 +1,3 @@
-[![MasterHead](https://th.bing.com/th/id/R.ad1a40ea040df0bca1f9d015ad44e1e4?rik=3lzYIKuIwCrxMw&pid=ImgRaw&r=0)](https://github.com/Primus66)
-
 <h1 align="center">Hi 👋, I'm Oluwatomiwa</h1>
 <h3 align="center">A Data Science enthusiast and I am also interested in Robotics, Machine Learning, Deep Learning, Data Mining, Python, AWS, Linux and ROS.</h3>
 <img align="right" alt="Coding" width="400" src="https://imagga.com/blog/wp-content/uploads/2017/04/Machine_Learning_Close_Human_Machine.jpg">
