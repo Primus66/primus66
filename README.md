@@ -8,10 +8,6 @@
 
 - 🔭 I’m currently working on **Deep Learning the Chemistry of Materials From Only Elemental Composition for Enhancing Materials Property Prediction**
 
-- 🌱 I’m currently learning **Databases and SQL for Data Science with Python IBM**
-
-- 👯 I’m looking to collaborate on **Deep Learning the Chemistry of Materials From Only Elemental Composition for Enhancing Materials Property Prediction**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Primus66](https://github.com/Primus66)
 
 - 💬 Ask me about **NLP, ML, Deep Learning.**
