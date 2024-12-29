@@ -1,20 +1,15 @@
 <h1 align="center">Hi 👋, I'm Oluwatomiwa</h1>
-<h3 align="center">A Data Science enthusiast and I am also interested in Robotics, Machine Learning and Deep Learning</h3>
-<img align="right" alt="Coding" width="400" src="https://imagga.com/blog/wp-content/uploads/2017/04/Machine_Learning_Close_Human_Machine.jpg">
+<h3 align="center">Machine Learning Engineer | AI Researcher | EdTech Innovator</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=primus66&label=Profile%20views&color=0e75b6&style=flat" alt="primus66" /> </p>
 
 <p align="left"> <a href="https://twitter.com/_thomzy" target="blank"><img src="https://img.shields.io/twitter/follow/_thomzy?logo=twitter&style=for-the-badge" alt="_thomzy" /></a> </p>
 
-- 🔭 I’m currently working on **Deep Learning the Chemistry of Materials From Only Elemental Composition for Enhancing Materials Property Prediction**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Primus66](https://github.com/Primus66)
-
 - 💬 Ask me about **NLP, ML, Deep Learning.**
 
 - 📫 How to reach me **adetayoadegoroye@gmail.com**
 
-- 📄 Know about my experiences **(I'm a self-taught Machine Learning Engineer, undergraduate in Material Science and Engineering, passionate about Robotics & Artificial Intelligence)**
+- 📄 Know about my experiences **( Machine Learning Engineer and Data Scientist with a background in Material Science & Engineering. Passionate about Robotics & Artificial Intelligence, I thrive on driving performance and innovation. Proficient in Machine Learning, Deep Learning, Python, Web Scraping, Data Visualization, Data Preprocessing, as well as C++ and Java.)**
 
 - ⚡ Fun fact **Pigeons can tell the difference between a painting by Monet and Picasso.**
 
